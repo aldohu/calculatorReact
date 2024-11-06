@@ -1,0 +1,8 @@
+.Calculator {
+	background-color: antiquewhite;
+
+	width: 80vw;
+	height: 90vh;
+	border: 2px solid red;
+	border-radius: 5px;
+}
